@@ -1,0 +1,27 @@
+# Ignore environment variables file
+.env
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#ddddddddddddddddd
+*.log
+*.dat
+*.ini
+*.tmp
+
+*.bak
+node_modules/
+/build/
+
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE project files
+.idea/
+.vscode/
